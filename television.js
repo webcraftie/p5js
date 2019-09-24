@@ -114,6 +114,6 @@ if (random(1,5)<random(1,10)) {
 
     strokeWeight(1);
 
-    image(graphic, 0, 0);
+    image(graphic, 0, 0, 800, 600);
 
 }
